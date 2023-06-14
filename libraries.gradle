@@ -1,6 +1,6 @@
 ext {
 
-    springBootVersion = '1.2.5.RELEASE'
+    springBootVersion = '1.5.22.RELEASE'
     springCloudVersion = '1.0.3.RELEASE'
 
     libraries = [
