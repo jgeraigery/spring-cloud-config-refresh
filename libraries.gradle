@@ -9,7 +9,7 @@ ext {
             springBootTest   : "org.springframework.boot:spring-boot-starter-test:${springBootVersion}",
             springCloudConfig   : "org.springframework.cloud:spring-cloud-starter-config:${springCloudVersion}",
 
-            junit        : 'junit:junit:4.12',
+            junit        : 'junit:junit:4.13.2',
             mockito      : 'org.mockito:mockito-all:1.10.19'
     ]
 }
